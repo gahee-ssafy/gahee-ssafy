@@ -26,8 +26,8 @@
 
 ![수영](./수영.png)
 
-끗~
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=krjgh@naver.com)] 
+
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=krjgh@naver.com)
 
 
 
