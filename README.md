@@ -27,8 +27,7 @@
 ![수영](./수영.png)
 
 끗~
-
-Solved.ac Profile
+[Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=%EB%B0%B1%EC%A4%80%EC%95%84%EC%9D%B4%EB%94%94)
 
 
 
